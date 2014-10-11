@@ -14,6 +14,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+<<<<<<< HEAD
 
 # Ignore other unneeded files.
 database.yml
@@ -24,3 +25,5 @@ doc/
 .DS_Store
 .idea
 .secret
+=======
+>>>>>>> fc91161f420532c0aaa72bec8b61db37d79266f7
